@@ -7,6 +7,13 @@ This is simple currency converter project. Here, program asks user to choose any
 rupees.
 
 
+**II. Technology Stack**
+
+Language: Python(3.6)
+
+IDE used: Pycharm
+
+
 
 
 
