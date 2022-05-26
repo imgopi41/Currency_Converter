@@ -2,16 +2,16 @@ import math     #importing math lib for calculations
 
 print("HI...\nLet's Convert the Currency..!\nWhich Currency would you like to Convert: \n")   #welcome message for user
 
-print("1."'USD')            #USA                    #10 different currencies
-print("2."'EUR')            #Euro
-print("3."'DINAR')          #Kuwaiti Dinar
-print("4."'RIYAL')          #Saudi Arabia
-print("5."'WON')            #South Korea
-print("6."'BAHT')           #Thailand
-print("7."'POUND')          #Uk
-print("8."'LIRA')           #Turkish
-print("9."'BOLIVAR')        #Venezuela
-print("10."'RUBLE','\n')    #Russia
+print("1."'USD',"\t\t\tUS Currency")
+print("2."'EUR',"\t\t\tEuro Currecny")
+print("3."'DINAR',"\t\tKuwait Currency")
+print("4."'RIYAL',"\t\tSaudi Arabia Currency")
+print("5."'WON',"\t\t\tSouth Korea Currency")
+print("6."'BAHT',"\t\t\tThailand Currency")
+print("7."'POUND',"\t\tUk Currency")
+print("8."'LIRA',"\t\t\tTurkish Currency")
+print("9."'BOLIVAR',"\t\tVenezuela Currency")
+print("10."'RUBLE',"\t\tRussia Currency",'\n')
 
 def Currency_Coventer():    #creating a function
 
