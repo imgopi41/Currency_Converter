@@ -18,7 +18,7 @@ def Currency_Coventer():    #creating a function
     while True:     # While-condition
 
         
-        user_currency = input("Choose any one above Currency you want to convert: ")   #user message to choose any currencies
+        user_currency = input("\nChoose any one above Currency you want to convert: ")   #user message to choose any currencies
         Indian_rupee = float(input("Enter the amount in Currencies: "))  # user message to enter amount in indian rupees
         ans = user_currency
         print("This is amount in Indian rupees")
@@ -63,7 +63,7 @@ def Currency_Coventer():    #creating a function
             result = Indian_rupee * 0.73
             print(result)
 
-        Try_again = input("Do you want to try again(Y/N): ")    #try again input message to the user
+        Try_again = input("\nDo you want to try again(Y/N): ")    #try again input message to the user
         if Try_again.upper() =="Y": #converts lowercase to uppercase
             Currency_Coventer()    #calling a function if try again is "Y".
             print("Thank You....!") #message to user
