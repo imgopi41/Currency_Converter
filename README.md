@@ -22,8 +22,14 @@ IDE used: Pycharm(3.6)
  4. Try again block is specified, user can type yes('Y'). If he/she wants choose currency again.
  5. If not no('N'), Thank you message will be displayed in output screen.
 
+**IV. Demo**
 
-**IV. Applications & Future enhancements**
+![Currency_convertor_demo](https://user-images.githubusercontent.com/99798157/170444521-6c54a54e-a654-48d7-8f85-31e39a1c8f6c.JPG)
+![Currency_convertor_demo2](https://user-images.githubusercontent.com/99798157/170444561-423bd2a8-ce21-4e10-ae39-56497189f335.JPG)
+
+
+
+**V. Applications & Future enhancements**
 
 This project can be enhanced with interactive GUI, it can be helpful globally.
  
